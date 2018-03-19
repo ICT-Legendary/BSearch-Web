@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/SearchEngine/routing.py=utf-8
+encoding//src/Server/consumers.py=utf-8
+encoding//src/Server/cron.py=utf-8
+encoding//src/Server/forms.py=utf-8
+encoding//src/Server/models.py=utf-8
+encoding//src/Server/plugins.py=utf-8
+encoding//src/Server/views.py=utf-8

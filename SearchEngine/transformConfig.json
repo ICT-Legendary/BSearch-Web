@@ -1,0 +1,32 @@
+{
+    "file_path": "/home/polly/test2/Java/jdk-8u101-windows-x64.exe",
+    "css": {
+	    "tr_class": "tr_class",
+	    "td_class_offset": "offset_class",
+	    "td_class_offset_hex": "offset_hex_class",
+	    "td_class_hex": "hex_class",
+	    "td_class_ascii": "ascii_class",
+	    "td_class_bit": "bit_class",
+	    "matched_prefix": "<font color='red'>",
+	    "matched_suffix": "</font>",
+	    "preload_lines": 2,
+	    "postload_lines": 1
+	},
+    "matches": [
+        {
+            "length": 25, 
+            "offset": 3568333, 
+            "offset_bit": 4
+        }, 
+        {
+            "length": 25, 
+            "offset": 5952531, 
+            "offset_bit": 2
+        }, 
+        {
+            "length": 25, 
+            "offset": 7353224, 
+            "offset_bit": 1
+        }
+    ]
+}
